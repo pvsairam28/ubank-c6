@@ -1,4 +1,4 @@
-Maximum number of accounts = 10
+Maximum number of accounts = 20
 AccountName        Account Number
 sai                 1001
 ram                 1002
